@@ -48,3 +48,15 @@
       transition: all 0.05.s;
       transition-timing-function: cubic-bezier(0.1, 2.7, 0.58, 1);
     }
+
+    .display-time {
+        text-align: center;
+        font-size: 1.75rem;
+        color: white;
+    }
+
+    section { 
+        display: flex;
+        flex-direction: column;
+        margin: 0 auto;
+    }
