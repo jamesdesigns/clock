@@ -1,5 +1,5 @@
     html {
-      background: #018DED url(night-sky.jpeg);
+      background: #018DED url(spacex-nightsky.jpeg);
       background-size: cover;
       font-family: 'helvetica neue';
       text-align: center;
@@ -53,6 +53,7 @@
         text-align: center;
         font-size: 1.75rem;
         color: white;
+        text-shadow: 1px 1px #000;
     }
 
     section { 
